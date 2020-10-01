@@ -1,21 +1,130 @@
 {
   "wallpapers": [
     {
-      "author": "Kaique Rocha",
-      "url": "https://static.pexels.com/photos/53756/pexels-photo-53756.jpeg",
-      "name": "Night City Street",
-      "thumbnail": "https://images.pexels.com/photos/53756/pexels-photo-53756.jpeg?h=350&auto=compress&cs=tinysrgb"
-    },
-    {
-      "author": "No One",
-      "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
-      "name": "Drops",
-      "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb"
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/9sHNkgJ/6620-flow.png",
+      "name": "Burn01",
+      "thumbnail": "https://i.ibb.co/3hhV5YB/6620-flow-compressed.jpg"
     },
     {
       "author": "MarcusBremen",
-      "url": "https://i.ibb.co/9sHNkgJ/6620-flow.png",
-      "name": "Burn01"
+      "url": "https://i.ibb.co/QJ5GfTz/7620-golden.png",
+      "name": "Burn02",
+      "thumbnail": "https://i.ibb.co/H2NZwpw/7620-golden-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/TrvyRvz/7620-waves-wo.png",
+      "name": "Burn03",
+      "thumbnail": "https://i.ibb.co/9hxsfh7/7620-waves-wo-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/0M3j82z/4620-v2.png",
+      "name": "Burn04",
+      "thumbnail": "https://i.ibb.co/F0MmRT2/4620-v2-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/MhDzznp/4620-v3.png",
+      "name": "Burn05",
+      "thumbnail": "https://i.ibb.co/ZYvKRcy/4620-v3-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/1d1RSPw/4620-v4.png",
+      "name": "Burn06",
+      "thumbnail": "https://i.ibb.co/vXNXY7H/4620-v4-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/cD833Qx/4620-v5.png",
+      "name": "Burn07",
+      "thumbnail": "https://i.ibb.co/RHBrPC6/4620-v5-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/H4k7dJg/8620-desert-at-night.png",
+      "name": "Burn08",
+      "thumbnail": "https://i.ibb.co/H4k7dJg/8620-desert-at-night.png"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/99vSmtY/8720-color-glitch.png",
+      "name": "Burn09",
+      "thumbnail": "https://i.ibb.co/FmvSzSr/8720-color-glitch-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/L8hZbWH/8720-quick-one.png",
+      "name": "Burn10",
+      "thumbnail": "https://i.ibb.co/7kBqMyv/8720-quick-one-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/Ytd4d3L/9620-turbulence.png",
+      "name": "Burn11",
+      "thumbnail": "https://i.ibb.co/8c7NFn4/9620-turbulence-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/YZtBKjs/12620-twirl-waves-v2.png",
+      "name": "Burn12",
+      "thumbnail": "https://i.ibb.co/6vB6Td3/12620-twirl-waves-v2-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/4PS6Z5P/12720-displace.png",
+      "name": "Burn13",
+      "thumbnail": "https://i.ibb.co/VxghW46/12720-displace-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/k2Qg2pC/13720-displace-v2.png",
+      "name": "Burn14",
+      "thumbnail": "https://i.ibb.co/sV4X4dK/13720-displace-v2-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/5Wb5q14/14720-purple-glitch.png",
+      "name": "Burn15",
+      "thumbnail": "https://i.ibb.co/CVYCLTm/14720-purple-glitch-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/5c2xhGy/16620-flows.png",
+      "name": "Burn16",
+      "thumbnail": "https://i.ibb.co/3SPx1xq/16620-flows-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/dGHn8Kw/17920-squares-turquise.png",
+      "name": "Burn17",
+      "thumbnail": "https://i.ibb.co/Lv5xq2w/17920-squares-turquise-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/P9d2CRC/17920-squares-yellow.png",
+      "name": "Burn18",
+      "thumbnail": "https://i.ibb.co/bvpyfKg/17920-squares-yellow-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/jZcLBXV/19620-twirls.png",
+      "name": "Burn19",
+      "thumbnail": "https://i.ibb.co/RGKZSyV/19620-twirls-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/zR92TNR/19620-splash.png",
+      "name": "Burn20",
+      "thumbnail": "https://i.ibb.co/ZWg5Jsm/19620-splash-compressed.jpg"
+    },
+    {
+      "author": "MarcusBremen",
+      "url": "https://i.ibb.co/yPTtxTV/20920-fire.png",
+      "name": "Burn21",
+      "thumbnail": "https://i.ibb.co/n3KSR2w/20920-fire-compressed.jpg"
     }
   ]
 }
